@@ -36,7 +36,7 @@
   /**
    * The WalletTxns model module.
    * @module model/WalletTxns
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

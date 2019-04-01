@@ -36,7 +36,7 @@
   /**
    * The ApprovalRequestRequestItems model module.
    * @module model/ApprovalRequestRequestItems
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

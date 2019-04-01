@@ -36,7 +36,7 @@
   /**
    * The DealPaymentParams model module.
    * @module model/DealPaymentParams
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

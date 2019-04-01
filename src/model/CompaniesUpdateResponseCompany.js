@@ -36,7 +36,7 @@
   /**
    * The CompaniesUpdateResponseCompany model module.
    * @module model/CompaniesUpdateResponseCompany
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

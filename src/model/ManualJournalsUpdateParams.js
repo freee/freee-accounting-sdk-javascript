@@ -36,7 +36,7 @@
   /**
    * The ManualJournalsUpdateParams model module.
    * @module model/ManualJournalsUpdateParams
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

@@ -36,7 +36,7 @@
   /**
    * The DealsPayments1 model module.
    * @module model/DealsPayments1
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

@@ -36,7 +36,7 @@
   /**
    * The PartnerParamsPartnerDocSettingAttributes model module.
    * @module model/PartnerParamsPartnerDocSettingAttributes
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

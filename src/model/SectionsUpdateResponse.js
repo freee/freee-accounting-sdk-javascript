@@ -36,7 +36,7 @@
   /**
    * The SectionsUpdateResponse model module.
    * @module model/SectionsUpdateResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

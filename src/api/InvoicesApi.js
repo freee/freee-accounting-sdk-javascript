@@ -33,7 +33,7 @@
   /**
    * Invoices service.
    * @module api/InvoicesApi
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

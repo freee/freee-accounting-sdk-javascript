@@ -36,7 +36,7 @@
   /**
    * The BanksIndexResponse model module.
    * @module model/BanksIndexResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

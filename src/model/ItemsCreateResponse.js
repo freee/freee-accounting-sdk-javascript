@@ -36,7 +36,7 @@
   /**
    * The ItemsCreateResponse model module.
    * @module model/ItemsCreateResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

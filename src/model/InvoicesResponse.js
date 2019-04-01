@@ -36,7 +36,7 @@
   /**
    * The InvoicesResponse model module.
    * @module model/InvoicesResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

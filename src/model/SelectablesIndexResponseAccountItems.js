@@ -36,7 +36,7 @@
   /**
    * The SelectablesIndexResponseAccountItems model module.
    * @module model/SelectablesIndexResponseAccountItems
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

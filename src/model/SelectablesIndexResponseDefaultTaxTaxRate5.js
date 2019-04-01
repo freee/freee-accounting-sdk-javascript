@@ -36,7 +36,7 @@
   /**
    * The SelectablesIndexResponseDefaultTaxTaxRate5 model module.
    * @module model/SelectablesIndexResponseDefaultTaxTaxRate5
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

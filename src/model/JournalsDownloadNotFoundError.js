@@ -36,7 +36,7 @@
   /**
    * The JournalsDownloadNotFoundError model module.
    * @module model/JournalsDownloadNotFoundError
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

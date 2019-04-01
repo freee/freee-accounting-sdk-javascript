@@ -36,7 +36,7 @@
   /**
    * The WalletTxnsIndexResponse model module.
    * @module model/WalletTxnsIndexResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

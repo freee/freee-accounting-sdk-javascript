@@ -36,7 +36,7 @@
   /**
    * The RenewsResponse model module.
    * @module model/RenewsResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

@@ -36,7 +36,7 @@
   /**
    * The DealsIndexResponse model module.
    * @module model/DealsIndexResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

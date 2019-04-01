@@ -36,7 +36,7 @@
   /**
    * The AccountItemsUpdateResponse model module.
    * @module model/AccountItemsUpdateResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

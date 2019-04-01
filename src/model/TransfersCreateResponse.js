@@ -36,7 +36,7 @@
   /**
    * The TransfersCreateResponse model module.
    * @module model/TransfersCreateResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

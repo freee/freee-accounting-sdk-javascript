@@ -36,7 +36,7 @@
   /**
    * The SegmentTagParams model module.
    * @module model/SegmentTagParams
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**
