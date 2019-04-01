@@ -36,7 +36,7 @@
   /**
    * The ExpenseApplicationsidExpenseApplicationLines model module.
    * @module model/ExpenseApplicationsidExpenseApplicationLines
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

@@ -33,7 +33,7 @@
   /**
    * ExpenseApplicationLineTemplates service.
    * @module api/ExpenseApplicationLineTemplatesApi
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

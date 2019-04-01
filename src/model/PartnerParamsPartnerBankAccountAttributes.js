@@ -36,7 +36,7 @@
   /**
    * The PartnerParamsPartnerBankAccountAttributes model module.
    * @module model/PartnerParamsPartnerBankAccountAttributes
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

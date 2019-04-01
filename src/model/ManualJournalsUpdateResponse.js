@@ -36,7 +36,7 @@
   /**
    * The ManualJournalsUpdateResponse model module.
    * @module model/ManualJournalsUpdateResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

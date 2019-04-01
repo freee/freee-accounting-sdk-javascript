@@ -36,7 +36,7 @@
   /**
    * The DealsCreateResponse model module.
    * @module model/DealsCreateResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

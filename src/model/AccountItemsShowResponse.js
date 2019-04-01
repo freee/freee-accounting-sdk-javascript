@@ -36,7 +36,7 @@
   /**
    * The AccountItemsShowResponse model module.
    * @module model/AccountItemsShowResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

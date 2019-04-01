@@ -36,7 +36,7 @@
   /**
    * The UnauthorizedError model module.
    * @module model/UnauthorizedError
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

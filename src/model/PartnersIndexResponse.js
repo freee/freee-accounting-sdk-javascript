@@ -36,7 +36,7 @@
   /**
    * The PartnersIndexResponse model module.
    * @module model/PartnersIndexResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

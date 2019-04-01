@@ -36,7 +36,7 @@
   /**
    * The PartnersResponse model module.
    * @module model/PartnersResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

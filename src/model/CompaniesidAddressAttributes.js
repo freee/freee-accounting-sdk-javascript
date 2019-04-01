@@ -36,7 +36,7 @@
   /**
    * The CompaniesidAddressAttributes model module.
    * @module model/CompaniesidAddressAttributes
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

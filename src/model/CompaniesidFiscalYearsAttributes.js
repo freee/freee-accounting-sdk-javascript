@@ -36,7 +36,7 @@
   /**
    * The CompaniesidFiscalYearsAttributes model module.
    * @module model/CompaniesidFiscalYearsAttributes
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

@@ -36,7 +36,7 @@
   /**
    * The SegmentTagsResponse model module.
    * @module model/SegmentTagsResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

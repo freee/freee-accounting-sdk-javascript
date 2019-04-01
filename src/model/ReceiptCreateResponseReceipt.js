@@ -36,7 +36,7 @@
   /**
    * The ReceiptCreateResponseReceipt model module.
    * @module model/ReceiptCreateResponseReceipt
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

@@ -36,7 +36,7 @@
   /**
    * The CompaniesidSalesInformationAttributes model module.
    * @module model/CompaniesidSalesInformationAttributes
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

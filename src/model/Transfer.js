@@ -36,7 +36,7 @@
   /**
    * The Transfer model module.
    * @module model/Transfer
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

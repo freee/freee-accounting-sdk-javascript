@@ -36,7 +36,7 @@
   /**
    * The WalletablesIndexResponse model module.
    * @module model/WalletablesIndexResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

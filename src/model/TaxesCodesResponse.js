@@ -36,7 +36,7 @@
   /**
    * The TaxesCodesResponse model module.
    * @module model/TaxesCodesResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

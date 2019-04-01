@@ -33,7 +33,7 @@
   /**
    * Renews service.
    * @module api/RenewsApi
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

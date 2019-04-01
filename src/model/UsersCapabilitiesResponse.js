@@ -36,7 +36,7 @@
   /**
    * The UsersCapabilitiesResponse model module.
    * @module model/UsersCapabilitiesResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

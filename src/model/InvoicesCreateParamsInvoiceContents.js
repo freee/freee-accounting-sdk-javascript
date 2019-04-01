@@ -36,7 +36,7 @@
   /**
    * The InvoicesCreateParamsInvoiceContents model module.
    * @module model/InvoicesCreateParamsInvoiceContents
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

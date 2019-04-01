@@ -1,6 +1,6 @@
 {
   "name": "freee-accounting-client",
-  "version": "v1.0",
+  "version": "v0.0.1",
   "description": "",
   "license": "MIT",
   "main": "src/index.js",
@@ -10,14 +10,14 @@
   "browser": {
     "fs": false
   },
-  "files": {
+  "files": [
     "docs",
     "src",
     "test",
     ".gitignore",
     "README.md",
     "package.json"
-  },
+  ],
   "dependencies": {
     "superagent": "3.7.0"
   },

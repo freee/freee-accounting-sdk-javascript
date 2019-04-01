@@ -33,7 +33,7 @@
   /**
    * Journals service.
    * @module api/JournalsApi
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**

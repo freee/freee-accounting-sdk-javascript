@@ -36,7 +36,7 @@
   /**
    * The TagsCreateResponse model module.
    * @module model/TagsCreateResponse
-   * @version v1.0
+   * @version v0.0.1
    */
 
   /**
