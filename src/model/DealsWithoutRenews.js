@@ -36,7 +36,7 @@
   /**
    * The DealsWithoutRenews model module.
    * @module model/DealsWithoutRenews
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

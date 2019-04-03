@@ -36,7 +36,7 @@
   /**
    * The DealsRenews model module.
    * @module model/DealsRenews
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

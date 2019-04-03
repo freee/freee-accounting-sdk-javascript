@@ -36,7 +36,7 @@
   /**
    * The RenewsUpdateParams model module.
    * @module model/RenewsUpdateParams
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

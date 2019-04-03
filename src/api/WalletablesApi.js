@@ -33,7 +33,7 @@
   /**
    * Walletables service.
    * @module api/WalletablesApi
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

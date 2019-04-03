@@ -36,7 +36,7 @@
   /**
    * The PartnerParamsAddressAttributes model module.
    * @module model/PartnerParamsAddressAttributes
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

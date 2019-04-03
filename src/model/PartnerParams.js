@@ -36,7 +36,7 @@
   /**
    * The PartnerParams model module.
    * @module model/PartnerParams
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

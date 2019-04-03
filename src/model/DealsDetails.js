@@ -36,7 +36,7 @@
   /**
    * The DealsDetails model module.
    * @module model/DealsDetails
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

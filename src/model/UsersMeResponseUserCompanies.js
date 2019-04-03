@@ -36,7 +36,7 @@
   /**
    * The UsersMeResponseUserCompanies model module.
    * @module model/UsersMeResponseUserCompanies
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

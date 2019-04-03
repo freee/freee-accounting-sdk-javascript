@@ -36,7 +36,7 @@
   /**
    * The InvoiceInvoiceContents model module.
    * @module model/InvoiceInvoiceContents
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

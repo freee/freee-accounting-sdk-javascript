@@ -36,7 +36,7 @@
   /**
    * The SegmentTagsIndexResponse model module.
    * @module model/SegmentTagsIndexResponse
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

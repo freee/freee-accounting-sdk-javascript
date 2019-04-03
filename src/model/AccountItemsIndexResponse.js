@@ -36,7 +36,7 @@
   /**
    * The AccountItemsIndexResponse model module.
    * @module model/AccountItemsIndexResponse
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

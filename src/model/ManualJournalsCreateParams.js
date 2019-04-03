@@ -36,7 +36,7 @@
   /**
    * The ManualJournalsCreateParams model module.
    * @module model/ManualJournalsCreateParams
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

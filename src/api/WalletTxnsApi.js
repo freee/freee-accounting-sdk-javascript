@@ -33,7 +33,7 @@
   /**
    * WalletTxns service.
    * @module api/WalletTxnsApi
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

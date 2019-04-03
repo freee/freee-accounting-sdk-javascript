@@ -36,7 +36,7 @@
   /**
    * The Parameters8 model module.
    * @module model/Parameters8
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

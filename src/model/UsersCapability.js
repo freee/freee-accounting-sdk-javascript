@@ -36,7 +36,7 @@
   /**
    * The UsersCapability model module.
    * @module model/UsersCapability
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

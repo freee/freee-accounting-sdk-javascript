@@ -36,7 +36,7 @@
   /**
    * The ManualJournalDetails model module.
    * @module model/ManualJournalDetails
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**
