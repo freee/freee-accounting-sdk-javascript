@@ -36,7 +36,7 @@
   /**
    * The BadRequestErrorErrors model module.
    * @module model/BadRequestErrorErrors
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

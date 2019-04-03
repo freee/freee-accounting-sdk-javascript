@@ -36,7 +36,7 @@
   /**
    * The ApprovalRequestsResponse model module.
    * @module model/ApprovalRequestsResponse
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

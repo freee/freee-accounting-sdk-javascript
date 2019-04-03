@@ -36,7 +36,7 @@
   /**
    * The AccountItemPartners model module.
    * @module model/AccountItemPartners
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

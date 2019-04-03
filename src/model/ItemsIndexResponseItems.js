@@ -36,7 +36,7 @@
   /**
    * The ItemsIndexResponseItems model module.
    * @module model/ItemsIndexResponseItems
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

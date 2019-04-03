@@ -36,7 +36,7 @@
   /**
    * The ExpenseApplicationsResponse model module.
    * @module model/ExpenseApplicationsResponse
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

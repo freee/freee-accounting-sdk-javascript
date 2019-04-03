@@ -33,7 +33,7 @@
   /**
    * ExpenseApplications service.
    * @module api/ExpenseApplicationsApi
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

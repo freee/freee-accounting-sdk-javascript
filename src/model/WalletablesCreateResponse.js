@@ -36,7 +36,7 @@
   /**
    * The WalletablesCreateResponse model module.
    * @module model/WalletablesCreateResponse
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

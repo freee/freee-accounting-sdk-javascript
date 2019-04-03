@@ -36,7 +36,7 @@
   /**
    * The AccountItem model module.
    * @module model/AccountItem
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

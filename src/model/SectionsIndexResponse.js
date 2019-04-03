@@ -36,7 +36,7 @@
   /**
    * The SectionsIndexResponse model module.
    * @module model/SectionsIndexResponse
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

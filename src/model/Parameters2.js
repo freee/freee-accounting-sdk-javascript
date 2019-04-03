@@ -36,7 +36,7 @@
   /**
    * The Parameters2 model module.
    * @module model/Parameters2
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

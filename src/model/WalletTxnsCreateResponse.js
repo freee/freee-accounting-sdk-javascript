@@ -36,7 +36,7 @@
   /**
    * The WalletTxnsCreateResponse model module.
    * @module model/WalletTxnsCreateResponse
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

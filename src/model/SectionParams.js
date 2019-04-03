@@ -36,7 +36,7 @@
   /**
    * The SectionParams model module.
    * @module model/SectionParams
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

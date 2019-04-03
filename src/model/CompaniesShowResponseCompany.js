@@ -36,7 +36,7 @@
   /**
    * The CompaniesShowResponseCompany model module.
    * @module model/CompaniesShowResponseCompany
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

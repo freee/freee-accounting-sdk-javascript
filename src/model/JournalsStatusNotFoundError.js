@@ -36,7 +36,7 @@
   /**
    * The JournalsStatusNotFoundError model module.
    * @module model/JournalsStatusNotFoundError
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

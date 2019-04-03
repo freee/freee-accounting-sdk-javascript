@@ -36,7 +36,7 @@
   /**
    * The TaxesIndexResponseTaxes model module.
    * @module model/TaxesIndexResponseTaxes
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

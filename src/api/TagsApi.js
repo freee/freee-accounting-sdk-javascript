@@ -33,7 +33,7 @@
   /**
    * Tags service.
    * @module api/TagsApi
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

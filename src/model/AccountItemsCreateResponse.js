@@ -36,7 +36,7 @@
   /**
    * The AccountItemsCreateResponse model module.
    * @module model/AccountItemsCreateResponse
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

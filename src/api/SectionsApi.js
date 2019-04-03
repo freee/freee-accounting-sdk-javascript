@@ -33,7 +33,7 @@
   /**
    * Sections service.
    * @module api/SectionsApi
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

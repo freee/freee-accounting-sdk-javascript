@@ -36,7 +36,7 @@
   /**
    * The RenewsCreateParams model module.
    * @module model/RenewsCreateParams
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

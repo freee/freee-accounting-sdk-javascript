@@ -36,7 +36,7 @@
   /**
    * The SectionsCreateResponse model module.
    * @module model/SectionsCreateResponse
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

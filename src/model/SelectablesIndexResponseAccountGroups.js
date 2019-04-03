@@ -36,7 +36,7 @@
   /**
    * The SelectablesIndexResponseAccountGroups model module.
    * @module model/SelectablesIndexResponseAccountGroups
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

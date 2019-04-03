@@ -33,7 +33,7 @@
   /**
    * Deals service.
    * @module api/DealsApi
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

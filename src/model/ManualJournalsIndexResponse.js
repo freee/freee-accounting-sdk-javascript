@@ -36,7 +36,7 @@
   /**
    * The ManualJournalsIndexResponse model module.
    * @module model/ManualJournalsIndexResponse
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**

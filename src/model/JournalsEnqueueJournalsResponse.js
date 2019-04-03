@@ -36,7 +36,7 @@
   /**
    * The JournalsEnqueueJournalsResponse model module.
    * @module model/JournalsEnqueueJournalsResponse
-   * @version v0.0.1
+   * @version v0.0.2
    */
 
   /**
